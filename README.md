@@ -25,7 +25,7 @@
   <img src="https://github.com/addinedu-amr-2th/robo-reop-3/assets/117617384/f721a075-a70f-4dd3-b18c-a030ef72f12b">
 </p>
 
--전체 시스템 구성도
+-전체 시스템 구성도</br>
   -(우) 실제 로봇의 전원을 키고 실행 시켜을때를 간단하게 나타낸 것입니다.
 
 
