@@ -20,3 +20,7 @@
 -딥 러닝 모델을 사용하지 않은 상태로 차선을 인식하여 주행
 
 # 프로젝트 설명
+--------------
+<p align="center">
+  <img src="https://github.com/addinedu-amr-2th/robo-reop-3/assets/117617384/f721a075-a70f-4dd3-b18c-a030ef72f12b">
+</p>
