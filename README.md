@@ -9,7 +9,7 @@
 
 # 시연 영상
 ---------------------------
-
-<img src = "https://github.com/addinedu-amr-2th/robo-reop-3/assets/117617384/5cf6f584-e6ba-4bc0-9cbd-70448806eba5">
-
+<p align="center">
+  <img src="[이미지URL](https://github.com/addinedu-amr-2th/robo-reop-3/assets/117617384/5cf6f584-e6ba-4bc0-9cbd-70448806eba5)https://github.com/addinedu-amr-2th/robo-reop-3/assets/117617384/5cf6f584-e6ba-4bc0-9cbd-70448806eba5">
+</p>
 
