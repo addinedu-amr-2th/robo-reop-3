@@ -10,6 +10,6 @@
 # 시연 영상
 ---------------------------
 <p align="center">
-  <img src="![Demo_Road](https://github.com/addinedu-amr-2th/robo-reop-3/assets/117617384/1d556166-901f-4862-bec8-a2010ec72a7f)">
+  <img src="https://github.com/addinedu-amr-2th/robo-reop-3/assets/117617384/1d556166-901f-4862-bec8-a2010ec72a7f">
 </p>
 
