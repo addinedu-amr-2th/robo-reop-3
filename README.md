@@ -6,11 +6,12 @@
 
 
 로봇의 카메라를 와 OpenCV를 이용하여 모터를 제어하는 프로젝트
-
-
 # 시연 영상
 ---------------------------
 <p align="center">
   <img src="https://github.com/addinedu-amr-2th/robo-reop-3/assets/117617384/1d556166-901f-4862-bec8-a2010ec72a7f">
 </p>
 
+# 목적
+-------------------------
+  
