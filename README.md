@@ -1,6 +1,7 @@
 # 프로젝트 소개
 ----------------------
-https://private-user-images.githubusercontent.com/117617384/251446668-f429b776-4e5c-4849-ad9d-e94c8c0adba4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg4NjQ2MjIzLCJuYmYiOjE2ODg2NDU5MjMsInBhdGgiOiIvMTE3NjE3Mzg0LzI1MTQ0NjY2OC1mNDI5Yjc3Ni00ZTVjLTQ4NDktYWQ5ZC1lOTRjOGMwYWRiYTQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQUlXTkpZQVg0Q1NWRUg1M0ElMkYyMDIzMDcwNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyMzA3MDZUMTIxODQzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NzM5YjFiZjE2NTgxZGVmN2E1ZjUyZDZjZTg4YWM4ODQ3N2Y3Y2VkNmYwYjhmYjJlMGIyZjhjMmQ0OGYxMTUxYyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.JVOfDCOqiIwPY3tsh9M3Nn8o1IoWFxeITPiroJ1QBk4
+![251446668-f429b776-4e5c-4849-ad9d-e94c8c0adba4](https://github.com/addinedu-amr-2th/robo-reop-3/assets/117617384/a47b33db-8e67-4869-9070-062e9dd757f5)
+
 
 
 로봇의 카메라를 와 OpenCV를 이용하여 모터를 제어하는 프로젝트
@@ -8,5 +9,7 @@ https://private-user-images.githubusercontent.com/117617384/251446668-f429b776-4
 
 # 시연 영상
 ---------------------------
-https://github.com/addinedu-amr-2th/robo-reop-3/commit/9b4422a2a36ee6ee4ff9cdca26168c094c0bac13
+
+ Demo_Road.mp4 
+
 
