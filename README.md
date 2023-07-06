@@ -1,2 +1,2 @@
-# robo-reop-3
-Development of Autonomous-Driving Algorithm in Low-Specification Process
+# 프로젝트 소개
+----------------------
