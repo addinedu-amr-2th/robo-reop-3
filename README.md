@@ -1,6 +1,8 @@
 # 프로젝트 소개
 ----------------------
-![251446668-f429b776-4e5c-4849-ad9d-e94c8c0adba4](https://github.com/addinedu-amr-2th/robo-reop-3/assets/117617384/a47b33db-8e67-4869-9070-062e9dd757f5)
+<p align="center">
+  ![251446668-f429b776-4e5c-4849-ad9d-e94c8c0adba4](https://github.com/addinedu-amr-2th/robo-reop-3/assets/117617384/a47b33db-8e67-4869-9070-062e9dd757f5)
+</p>
 
 
 
