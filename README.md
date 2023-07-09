@@ -18,7 +18,7 @@
 
 # 프로젝트 설명
 <p align="center">
-  <img src="https://github.com/addinedu-amr-2th/robo-reop-3/assets/117617384/f721a075-a70f-4dd3-b18c-a030ef72f12">
+  <img src="https://github.com/addinedu-amr-2th/robo-reop-3/assets/124948850/016970c8-fd77-4205-a0d0-ddf4d85bfed7">
 </p>
 
 * 전체 시스템 구성도<br/>
