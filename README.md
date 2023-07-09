@@ -18,7 +18,7 @@
 
 # 프로젝트 설명
 <p align="center">
-  <img src="https://github.com/addinedu-amr-2th/robo-reop-3/assets/117617384/f721a075-a70f-4dd3-b18c-a030ef72f12b">
+  <img src="https://github.com/addinedu-amr-2th/robo-reop-3/assets/117617384/f721a075-a70f-4dd3-b18c-a030ef72f12">
 </p>
 
 * 전체 시스템 구성도<br/>
@@ -31,7 +31,7 @@
   <br/>  3번 사진은 교차로를 만나을때의 사진인데 사진 상단의 양쪽 픽셀 값이 없어진다면 직진을 하도록 제어 하였습니다.
   
 <p align="center">
-  <img src="https://github.com/addinedu-amr-2th/robo-reop-3/issues/6#issue-1795432440" width="640" height="480">
+  <img src="https://github.com/addinedu-amr-2th/robo-reop-3/assets/124948850/c98020c5-f978-4144-9251-24264e1bfd1f" width="640" height="480">
 </p>
 
 # 의의
