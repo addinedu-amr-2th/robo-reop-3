@@ -31,7 +31,7 @@
   <br/>  3번 사진은 교차로를 만나을때의 사진인데 사진 상단의 양쪽 픽셀 값이 없어진다면 직진을 하도록 제어 하였습니다.
   
 <p align="center">
-  <img src="https://github.com/addinedu-amr-2th/robo-reop-3/issues/6#issue-1795432440">
+  <img src="https://github.com/addinedu-amr-2th/robo-reop-3/issues/6#issue-1795432440" width="640" height="480">
 </p>
 
 # 의의
