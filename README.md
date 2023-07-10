@@ -34,12 +34,12 @@
   <img src="https://github.com/addinedu-amr-2th/robo-reop-3/assets/124948850/c98020c5-f978-4144-9251-24264e1bfd1f">
 </p>
 * opencv를 이용하여 도로 이미지 가공<br/>
-  * 1.카메라를 통해 본 이미지<br/>
-  * 2.ROI(Region of Interest)를 설정해 원하는 대상만 남김<br/>
-  * 3.HLS 필터를 이용하여 원하는 색범위안의 물체만 인식<br/>
-  * 4.Gray scale과 thershold를 통해 binarization<br/>
-  * 5.perspective Transform를 통해 양쪽의 차선을 일직선으로 배치<br/>
-  * 6.sliding_window 곡선을 곡선으로 인식하기위해 사용<br/>
+  <br/> 1.카메라를 통해 본 이미지
+  <br/> 2.ROI(Region of Interest)를 설정해 원하는 대상만 남김
+  <br/> 3.HLS 필터를 이용하여 원하는 색범위안의 물체만 인식
+  <br/> 4.Gray scale과 thershold를 통해 binarization
+  <br/> 5.perspective Transform를 통해 양쪽의 차선을 일직선으로 배치
+  <br/> 6.sliding_window 곡선을 곡선으로 인식하기위해 사용
 
 # 의의
 - 주행중에 차선의 중앙을 인식하여 차선에서 벗어나는것을 방지하기 위해서는 최소한의 딜레이와 가벼운 코드가 필요하다.
