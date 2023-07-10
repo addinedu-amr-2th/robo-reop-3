@@ -20,11 +20,14 @@
 <p align="center">
   <img src="https://github.com/addinedu-amr-2th/robo-reop-3/assets/124948850/016970c8-fd77-4205-a0d0-ddf4d85bfed7">
 </p>
+
 * 전체 시스템 구성도<br/>
   * (우) 로봇의 작동 과정
+
 <p align="center">
 <img src="https://github.com/addinedu-amr-2th/robo-reop-3/assets/124948850/ce566f23-ede3-44e7-901d-7dae5ae936ad">
 </p>
+
   * (좌) 카메라의 정보를 읽고 필더들을 이용하여 아래 2번 사진의 두개의 선의 픽셀 차이값을 가지고 로봇의 모터를 제어
   <br/>  1번 사진 왼쪽 차선과 오른쪽 차선의 인식양을 인식하다가 표준값 보다 픽셀양이 적다면 한쪽으로 치우쳐져 있다고 판단
   <br/>  3번 사진은 교차로를 만나을때의 사진인데 사진 상단의 양쪽 픽셀 값이 없어진다면 직진을 하도록 제어
@@ -32,6 +35,7 @@
 <p align="center">
   <img src="https://github.com/addinedu-amr-2th/robo-reop-3/assets/124948850/c98020c5-f978-4144-9251-24264e1bfd1f">
 </p>
+
 * opencv를 이용하여 도로 이미지 가공<br/>
   <br/> 1.카메라를 통해 본 이미지
   <br/> 2.ROI(Region of Interest)를 설정해 원하는 대상만 남김
