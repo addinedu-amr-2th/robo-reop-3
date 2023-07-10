@@ -17,21 +17,8 @@
 -딥 러닝 모델을 사용하지 않은 상태로 차선을 인식하여 주행
 
 # 프로젝트 설명
-<p align="center">
-  <img src="https://github.com/addinedu-amr-2th/robo-reop-3/assets/124948850/016970c8-fd77-4205-a0d0-ddf4d85bfed7">
-</p>
 
-* 전체 시스템 구성도<br/>
-  * (우) 로봇의 작동 과정
-
-<p align="center">
-<img src="https://github.com/addinedu-amr-2th/robo-reop-3/assets/124948850/ce566f23-ede3-44e7-901d-7dae5ae936ad">
-</p>
-
-  * (좌) 카메라의 정보를 읽고 필더들을 이용하여 아래 2번 사진의 두개의 선의 픽셀 차이값을 가지고 로봇의 모터를 제어
-  <br/>  1번 사진 왼쪽 차선과 오른쪽 차선의 인식양을 인식하다가 표준값 보다 픽셀양이 적다면 한쪽으로 치우쳐져 있다고 판단
-  <br/>  3번 사진은 교차로를 만나을때의 사진인데 사진 상단의 양쪽 픽셀 값이 없어진다면 직진을 하도록 제어
-  
+* 이미지 전처리
 <p align="center">
   <img src="https://github.com/addinedu-amr-2th/robo-reop-3/assets/124948850/c98020c5-f978-4144-9251-24264e1bfd1f">
 </p>
@@ -43,6 +30,22 @@
   <br/> 4.Gray scale과 thershold를 통해 binarization
   <br/> 5.perspective Transform를 통해 양쪽의 차선을 일직선으로 배치
   <br/> 6.sliding_window 곡선을 곡선으로 인식하기위해 사용
+
+
+  
+* 전체 시스템 구성도<br/>
+<p align="center">
+<img src="https://github.com/addinedu-amr-2th/robo-reop-3/assets/124948850/016970c8-fd77-4205-a0d0-ddf4d85bfed7">
+</p>
+<p align="center">
+<img src="https://github.com/addinedu-amr-2th/robo-reop-3/assets/124948850/ce566f23-ede3-44e7-901d-7dae5ae936ad">
+</p>
+
+  * 이미지 전처리후 아래 2번 사진의 두개의 선의 픽셀 차이값을 가지고 로봇의 모터를 제어
+  <br/>  1번 사진 왼쪽 차선과 오른쪽 차선의 인식양을 인식하다가 표준값 보다 픽셀양이 적다면 한쪽으로 치우쳐져 있다고 판단
+  <br/>  3번 사진은 교차로를 만나을때의 사진인데 사진 상단의 양쪽 픽셀 값이 없어진다면 직진을 하도록 제어
+  
+
 
 # 의의
 - 주행중에 차선의 중앙을 인식하여 차선에서 벗어나는것을 방지하기 위해서는 최소한의 딜레이와 가벼운 코드가 필요하다.
