@@ -20,7 +20,9 @@
 <p align="center">
   <img src="https://github.com/addinedu-amr-2th/robo-reop-3/assets/124948850/016970c8-fd77-4205-a0d0-ddf4d85bfed7">
 </p>
-
+<p align="center">
+<img src="https://github.com/addinedu-amr-2th/robo-reop-3/assets/124948850/ce566f23-ede3-44e7-901d-7dae5ae936ad">
+</p>
 * 전체 시스템 구성도<br/>
   * (우) 로봇의 작동 과정
 
