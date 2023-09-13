@@ -26,6 +26,9 @@ black_pixels_count_threshold = 20  # Black pixel count threshold
 intersection_threshold = 80  # Top Intersection Value
 intersection_flag = 0
 
+leftx_current = 0
+rightx_current = 0
+
 def display_thresholded_channels(frame):
     frame = cv2.cvtColor(frame, cv2.COLOR_BGR2HLS)
     _, L, S = cv2.split(frame)
@@ -41,7 +44,7 @@ def display_thresholded_channels(frame):
 def apply_perspective_transform(img):
     # Original Perspective
     src_points_image = np.array([         
-         (0, 0),
+        (0, 0),
         (frame_w, 0),
         (frame_w, frame_h),
         (0,frame_h) 
@@ -65,7 +68,7 @@ def apply_perspective_transform(img):
     return transformed_img, transform_matrix, inv_transform_matrix
 
 def Sliding_window(frame):
-    global num_widow, margin, minpix, intersection_threshold
+    global num_widow, margin, minpix, intersection_threshold, leftx_current, rightx_current
 
     histogram = np.sum(frame[frame.shape[0]//2:,:], axis=0) 
     midpoint = int(histogram.shape[0] / 2)
